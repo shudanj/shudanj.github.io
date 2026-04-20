@@ -1,6 +1,6 @@
 # Shudan Jew
 
-![Headshot of Shudan]()
+![Headshot of Shudan](1776546835515.jpg)
 
 ### About Me
 I am a passionate and driven researcher- with a focus on using bioinformatics to make sense of large and complex biological data sets.
