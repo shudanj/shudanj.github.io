@@ -8,7 +8,7 @@ I am a passionate and driven researcher- with a focus on using bioinformatics to
 Loyola University Maryland
 
 **Hauber Research Fellow** 
-Supervised by Dr. Cassandra Holbert
+/n Supervised by Dr. Cassandra Holbert
 
 ### Projects
 
