@@ -1,5 +1,7 @@
 # Shudan Jew
 
+![Headshot of Shudan]()
+
 ### About Me
 I am a passionate and driven researcher- with a focus on using bioinformatics to make sense of large and complex biological data sets.
 
@@ -29,3 +31,9 @@ Mentored by Anne Baldino and Dr. Tsvetan Bachvaroff
 #### Bioinformatics Capstone: Cachexia Induced Differential Gene Expression in Zebrafish
 - ![Image](link-to-image)
 - Write-up here
+
+***  
+
+#### The Effect of Isotretinoin on Neuroblastoma 
+- Chi Nguyen and Shudan Jew  
+- Sponsored by Jackson Laboratory  
