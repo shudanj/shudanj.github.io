@@ -1,27 +1,31 @@
 # Shudan Jew
 
 ### About Me
-I am a passionate and driven researcher- with a focus on using bioinformatics to make sense of large and complex biological data sets. 
+I am a passionate and driven researcher- with a focus on using bioinformatics to make sense of large and complex biological data sets.
 
 ### Education
-**BSc in Biohealth, concentration in Biotech and Biopharma**  
-Loyola University Maryland
 
-**Hauber Research Fellow** 
-/n Supervised by Dr. Cassandra Holbert
+**Loyola University Maryland**  
+*BSc in Biohealth, concentration in Biotech and Biopharma*  
+*Hauber Research Fellow*  
+Supervised by Dr. Cassandra Holbert  
+
+**Institute of Marine and Environmental Technology**  
+*Research Assistant*  
+Mentored by Anne Baldino and Dr. Tsvetan Bachvaroff  
 
 ### Projects
 
-#### Project 1 Title
+#### Exploratory Gene Expresssion Analysis
 - ![Image](link-to-image)
 - [Read the Report](link-to-report)
 
 ***
-#### Project 2 Title
+#### Differential Gene Expression & Visualization
 - ![Image](link-to-image)
 - Write-up here
 
 ***
-#### Project 3 Title
+#### Bioinformatics Capstone: Cachexia Induced Differential Gene Expression in Zebrafish
 - ![Image](link-to-image)
 - Write-up here
