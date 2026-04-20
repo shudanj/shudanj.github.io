@@ -20,7 +20,6 @@ Mentored by Anne Baldino and Dr. Tsvetan Bachvaroff
 
 #### Exploratory Gene Expresssion Analysis
 - ![Image](link-to-image)
-- [Read the Report](link-to-report)
 
 ***
 #### Differential Gene Expression & Visualization
@@ -29,8 +28,7 @@ Mentored by Anne Baldino and Dr. Tsvetan Bachvaroff
 
 ***
 #### Bioinformatics Capstone: Cachexia Induced Differential Gene Expression in Zebrafish
-- ![Image](link-to-image)
-- Write-up here
+- ![Read the Project Proposal]()
 
 ***  
 
