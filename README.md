@@ -14,10 +14,12 @@ Mentored by Anne Baldino and Dr. Tsvetan Bachvaroff
 ### Projects  
 
 #### Exploratory Gene Expresssion Analysis
-
+- This project focused on data wrangling and cleaning as well exploratory statistical tests.
+!(project_1_final.R)
 ***
 #### Differential Gene Expression & Visualization
-- Write-up here
+- This project focused on visualizing data in the form of a gene ontology dot plot which shows the processes the top DEGs are involved in.
+!(
 
 ***
 #### Bioinformatics Capstone: Cachexia Induced Differential Gene Expression in Zebrafish
