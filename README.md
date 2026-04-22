@@ -15,13 +15,13 @@ Mentored by Anne Baldino and Dr. Tsvetan Bachvaroff
 
 #### Exploratory Gene Expresssion Analysis
 - This project focused on data wrangling and cleaning as well exploratory statistical tests.  
-!(project_1_final.R)
+![Project 1 Script](project_1_final.R)
 
 ***  
 
 #### Differential Gene Expression & Visualization
 - This project focused on visualizing data in the form of a gene ontology dot plot which shows the processes the top DEGs are involved in.  
-!(project2_gene_ontology.R)  
+![Project 2 Script](project2_gene_ontology.R)  
 
 ***  
 
