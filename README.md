@@ -19,11 +19,12 @@ Mentored by Anne Baldino and Dr. Tsvetan Bachvaroff
 ***
 #### Differential Gene Expression & Visualization
 - This project focused on visualizing data in the form of a gene ontology dot plot which shows the processes the top DEGs are involved in.
-!(
+!(project2_gene_ontology.R)
 
 ***
 #### Bioinformatics Capstone: Cachexia Induced Differential Gene Expression in Zebrafish
-- ![Read the Project Proposal](week5_experimental_design.docx)
+Below is the experiemental design summary:
+![Read the Project Proposal](week5_experimental_design.docx)
 
 ***  
 
